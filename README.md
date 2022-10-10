@@ -1,46 +1,26 @@
-###  1 Четверть: “Введение в ручное тестирование”
 
-####  1  Спринт
+## Я инженер по обеспечению качества.
+## Мое резюме
+[Ссылка на мое резюме](https://docs.google.com/document/d/1kHadJOgEWaGLsw27xCNoXZS7-HLTz8JC/edit?usp=sharing&ouid=104316575077460972957&rtpof=true&sd=true)
 
-Изучение теории ручного тестирования,   жизненный  цикл ПО. Составление чек-листов, тест-кейсов и заведение багов в Jira. Формирование отчета по результатам тестирования. 
+### Инструменты
+![Заголовок](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Заголовок](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Заголовок](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
+![Заголовок](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Заголовок](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Заголовок](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=2674f2)
+![Заголовок](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Заголовок](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Заголовок](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
+### Мои работы
+- [Тестирование TUI "FUN&SUN"](https://drive.google.com/drive/folders/1i1HM_otZTmagiHWZ5ev3tr46HYwq8wFZ?usp=sharing)
+- [Тестирование Лендинга](https://drive.google.com/drive/folders/1xT4IdZsd7Rku9k3VOW1c2zSM-a5nUXTs?usp=sharing)
+- [Тестирование мобильных приложений](https://drive.google.com/drive/folders/1DIL7ciAo0MwD6qR5sHNBUAEtlAWQfU8G?usp=sharing)
+- [Тестирование web приложений](https://drive.google.com/drive/folders/1qHwm_KuKHfDqKtsKsquWzXLhCuUKPoDo?usp=sharing)
 
-####  2 Спринт
-
-Введение в тест-дизайн и тест-анализ.  Составление mind-map по документации TMS Test It и составление чек-листа, тест-кейсов на ее основе. 
-
-###  2 Четверть: “Тестирование веб-приложений”
-
-####  1  Спринт
-
-Изучение HTML/CSS. Создание несколько страниц HTML в Visual Studio Code, подключение файла CSS к этим страницам, проверка файла на https://validator.w3.org/, тестирование верстки в браузерах Opera и Google. 
-
-####  2 Спринт
-
-Работа с Chrome DevTools. Изучение протокола HTTP. Методы HEAD, GET, POST, PUT, DELETE, CONNECT. Мониторинг и подмена данных в Charles. SOAP and REST API тестирование. 
-
-###  3 Четверть: “Тестирование мобильных приложений”
-
-####  1 Спринт
-
-Изучение теории мобильного тестирования. Работа с Android Studio, Charles и Swagger. Заведение багов в Jira.
-
-####  2 Спринт
-
-Работа с Android Studio. Создание виртуальных устройств, тестирование приложения, анализ логов. Тестирование мобильного приложения “ИБ Документы” и воспроизведение бага с помощью adb. Тестирование и составление чек-листа мобильного приложения “Memento Calendar”.  Мониторинг и подмена данных мобильного приложения “Ozon” в Charles . Создание автотестов в Postman. Тестирование мобильного приложения "Скорочтец" и составление чек-листа.
-
-### 4 Четверть: “Командная работа”
-
-#### 1  Спринт
-
-Изучение Agile подхода к организационному управлению и разработке ПО. Изучение подходов организации командной работы -  Scrum, Kanban и Scrumban.
-
-#### 2  Спринт
-
-Итоговый проект - мобильное приложение FUN&SUN. Составление тест-плана, чек-листа в Qase io, test run составленного чек-листа в Qase io, заведение багов по результатам test run в Jira. Формирование отчета о результатах тестирования в Confluence. 
-
-###  Вне  четверти
-
-Основы автоматизации. JavaScript. Методологии и процесс разработки. Введение в Git.
-
+### Профили в соцсетях
+[![Заголовок](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/ssves94)
+[![Заголовок](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/svetlana-smirnova-4399a8251/ )
 
