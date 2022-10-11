@@ -1,7 +1,7 @@
 
 ## Я инженер по обеспечению качества.
 ## Мое резюме
-[Ссылка на мое резюме](https://docs.google.com/document/d/1kHadJOgEWaGLsw27xCNoXZS7-HLTz8JC/edit?usp=sharing&ouid=104316575077460972957&rtpof=true&sd=true)
+[Ссылка на мое резюме](https://drive.google.com/file/d/1lCyGRfT3ToEEUf9bxgJwFWX6RgpNgMNU/view?usp=sharing)
 
 ### Инструменты
 ![Заголовок](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
